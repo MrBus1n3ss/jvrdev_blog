@@ -1,0 +1,3 @@
+//todo: add requirements
+flask
+flask-sqlalchemy
